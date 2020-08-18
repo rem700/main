@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+## Костыли и Грабли -  Манифест!
 
-You can use the [editor on GitHub](https://github.com/Crutch-and-Rake-Uzhhorod/crutch-and-rake.github.io/edit/gh-pages/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Перед тем как начать, мы хотим расставить некоторые точки над некоторыми i...
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. Что такое проект "Костыли и Грабли"? 
+    
+    Да все очень просто - решаем проблемы методом проб и ошибок.
 
-### Markdown
+2. Для кого предназначен проект "Костыли и Грабли"?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    Для ментора - шариш что-то в IT? го делится скилами.
+Для начинающих IT специалистов - у тебя есть огромное желание работать и развиватся в IT но на роботу тебя не берут потому что нет опыта, ты уже работаеш но хочеш получить больше опыта и расширить свое портфолио, у тебя просто есть немного свободного времени которое ты готов потрать на хорошое дело? го к нам, мы знаем как использовать твои свободные человекочасы :)
 
-```markdown
-Syntax highlighted code block
+3. Какие проекты развивает наше сообщество?
 
-# Header 1
-## Header 2
-### Header 3
+    Некомерческие, не монетизируемые, безвозвмездные, решающие какую либо социальную задачу для жителей Ужгорода/Закарпатья и не только. 
 
-- Bulleted
-- List
+4. Почему мы этим занимаемся?
 
-1. Numbered
-2. List
+    А почему бы и нет?
 
-**Bold** and _Italic_ and `Code` text
+5. Что получат участники проекта?
+    * **Н** -астроение за доброе дело
+    * **И** -нспирейшион за то что поделились знаниями
+    * **Х** -рап, надеемся вы не заработаете на нервной почве
+    * **Е** -xperience - будете что то делать, чему то да и научитесь :)
+    * **Р** -абство мы не расмматриваем, это дело добровольное, взался делай!
+    * **А** -ааааааааааааа, от радосто того что у вас что то получилось или нет
 
-[Link](url) and ![Image](src)
-```
+    Это волонтерский проект для решения не комерчески проблем, по сему лучшее что можем предложить менторам это полить ваше ЧСВ маслом благого дела.  Юным дарованиям предлогаем опыт и расширение портфолио, а так же всем кто в деле - великое чуство принадложности к чему то хорошему, большому и чистому(к коду это не относится, сами знаете как оно там).    
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+6. Кто уже хочет делится знаниями.
+    - Михаил Емец - Flutter(Android) ментор
+    - Дмитрий Олашин - JS- Front/Back - ментор
+    - Дмитрий Олашин - JS- Front/Back - ментор
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Crutch-and-Rake-Uzhhorod/crutch-and-rake.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+7. О том как стать участник и попасть на обучение/разработку, можно детально [прочитать тут](http://google.com). 
+8. О том как стать ментором, пишите в открытй [Slack channel](https://app.slack.com/client/TDYTCTBK9/C0143EPU7C4)
+9. На данном этапе это странная, и пока что нам самим до конца не понятная инициатива, у нас есть на данном этапе задача которую мы бы хотели решить испульзую юных подованов и искренне верим что она может быть немного полезна жителям нашего города. Если все это получится и мы сможем довести данный проект до стадии релиза, мы сделаем прием заявок на реализацию других иницитив подобного рода, елси же нет то наберемся опыта и придумаем что нибудь еще.
