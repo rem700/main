@@ -14,7 +14,7 @@
 
 ...
 
-Пример тех данных, которые надо внести с помощью pullrequest на эту страницу
+Пример тех данных, которые надо внести с помощью pullrequest на эту страницу (линк на репозиторий [вот тут](https://github.com/Crutch-and-Rake-Uzhhorod/main))
 
 ```markdown
 name/nikename: Ivan
