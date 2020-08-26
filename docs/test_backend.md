@@ -29,8 +29,8 @@
 Список тих, хто зробив тестове:
 
 1) Misha Xodanych (nixage)
-    FB: https://www.facebook.com/profile.php?id=100009308260522;
-    GH: https://github.com/nixage/crutch-and-rake/tree/master
+- FB: https://www.facebook.com/profile.php?id=100009308260522;
+- GH: https://github.com/nixage/crutch-and-rake/tree/master
 
 Приклад тих даних, які треба внести за допомогою pullrequest на цю сторінку (лінк на репозиторій [ось тут](https://github.com/Crutch-and-Rake-Uzhhorod/main))
 
