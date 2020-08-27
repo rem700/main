@@ -12,10 +12,12 @@
 
 Список тех, кто сделал тестовое:
 
-1. name/nikename: Vasyl
+```markdown
+1) name/nikename: Vasyl
 link to FB/LinkedIn: https://www.facebook.com/Talapa.Vasyl	
 link to my test task repository: https://github.com/Vasajj/baby_names	
 link to my APK for test: https://drive.google.com/file/d/19hPTcUsM2mwm4P-JyGBhTJEEtKQctrL8/view?usp=sharing
+```
 
 Пример тех данных, которые надо внести с помощью pullrequest на эту страницу (линк на репозиторий [вот тут](https://github.com/Crutch-and-Rake-Uzhhorod/main))
 
