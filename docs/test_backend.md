@@ -32,6 +32,11 @@
 FB: https://www.facebook.com/profile.php?id=100009308260522;
 GH: https://github.com/nixage/crutch-and-rake/tree/master
 ```
+```markdown
+2) Mark Zavatskyi
+FB: https://www.facebook.com/profile.php?id=100017184282013
+GH: https://github.com/ffmz1904/main/tree/mz-usersApi
+```
 
 Приклад тих даних, які треба внести за допомогою pullrequest на цю сторінку (лінк на репозиторій [ось тут](https://github.com/Crutch-and-Rake-Uzhhorod/main))
 
