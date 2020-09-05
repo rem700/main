@@ -37,7 +37,11 @@ GH: https://github.com/nixage/crutch-and-rake/tree/master
 FB: https://www.facebook.com/profile.php?id=100017184282013
 GH: https://github.com/ffmz1904/main/tree/mz-usersApi
 ```
-
+```markdown
+3) Kolya Vizenko
+FB: https://www.facebook.com/profile.php?id=100023301580189
+GH: https://github.com/KolyaViz/C-and-R-Uzh-test
+```
 Приклад тих даних, які треба внести за допомогою pullrequest на цю сторінку (лінк на репозиторій [ось тут](https://github.com/Crutch-and-Rake-Uzhhorod/main))
 
 ```markdown
