@@ -39,8 +39,8 @@ GH: https://github.com/ffmz1904/main/tree/mz-usersApi
 ```
 ```markdown
 3) Kolya Vizenko
-link to FB: https://www.facebook.com/profile.php?id=100023301580189
-link to my test task repository: https://github.com/KolyaViz/C-and-R-Uzh-test
+FB: https://www.facebook.com/profile.php?id=100023301580189
+GH: https://github.com/KolyaViz/C-and-R-Uzh-test
 ```
 Приклад тих даних, які треба внести за допомогою pullrequest на цю сторінку (лінк на репозиторій [ось тут](https://github.com/Crutch-and-Rake-Uzhhorod/main))
 
