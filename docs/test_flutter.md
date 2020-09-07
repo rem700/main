@@ -27,6 +27,12 @@ link to my APK for test: https://drive.google.com/file/d/1UiIhQbmgnTvKxZZ4XHxyY9
 link to FB/LinkedIn: https://www.linkedin.com/in/arthur-puha-0ba7a51b6/ 
 link to my test task repository: https://github.com/artiscream/baby_names_chooser 
 link to my APK for test: https://drive.google.com/file/d/1VK7Q6EW256fs1RYlxTRTYiOD0MiwYbBM/view?usp=sharing
+
+4) name/nikename: Yaroslav/weik
+link to FB/LinkedIn: https://www.linkedin.com/in/yarik-siomka/
+link to my test task repository: https://github.com/weikme/baby_names
+link to my APK for test: https://drive.google.com/drive/folders/1JxY7FSaCWaSSlWKjCGAxV3Z49sfLcmL1?usp=sharing
+
 ```
 
 Пример тех данных, которые надо внести с помощью pullrequest на эту страницу (линк на репозиторий [вот тут](https://github.com/Crutch-and-Rake-Uzhhorod/main))
