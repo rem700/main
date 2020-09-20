@@ -9,4 +9,4 @@
 
 - Створити інтерфейс головного екрану додатку та екрану закладу
 
-Готове завдання відправляти на перевірку до [Vitali Senevych](https://t.me/Vitali_Senevych)
+Готове завдання відправляти на перевірку до [Vitali Senevych](https://t.me/Vitali_Senevych) з поміткою "Test Design, Crutch-and-Rake"
