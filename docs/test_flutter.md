@@ -38,6 +38,11 @@ link to FB/LinkedIn: https://www.facebook.com/profile.php?id=100011564612676
 link to my test task repository: https://github.com/ultrasosok/baby-names-app.git
 link to my APK for test: https://drive.google.com/file/d/1dF3E4CVW-tTqbIHaV2Pzst46S1VzUTQ2/view?usp=sharing
 
+6) name/nikename: Dmytro/dmykos
+link to FB/LinkedIn: https://www.linkedin.com/in/dmytro-kosto-6476aa55/
+link to my test task repository: https://github.com/dmykos/baby_names
+link to my APK for test: https://drive.google.com/file/d/1z3N7VlY1AT3L37QH_Ae9966vvAmQSvk8/view?usp=sharing
+
 ```
 
 Пример тех данных, которые надо внести с помощью pullrequest на эту страницу (линк на репозиторий [вот тут](https://github.com/Crutch-and-Rake-Uzhhorod/main))
