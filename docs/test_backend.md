@@ -45,7 +45,7 @@ GH: https://github.com/KolyaViz/C-and-R-Uzh-test
 ```markdown
 4) Kolya Khudyk
 FB: https://www.facebook.com/kolya.khuduk.3
-GH: https://github.com/kolya511/main
+GH: https://github.com/kolya511/crutch-and-rake
 ```
 Приклад тих даних, які треба внести за допомогою pullrequest на цю сторінку (лінк на репозиторій [ось тут](https://github.com/Crutch-and-Rake-Uzhhorod/main))
 
